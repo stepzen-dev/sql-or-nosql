@@ -1,0 +1,10 @@
+schema
+  @sdl(
+    files: [
+      "astra/astra.graphql"
+      "graphql/realm_mongodb_comapiclientv2_0appapplication_0_ubbxu.graphql"
+      "mysql/mysql.graphql"
+    ]
+  ) {
+  query: Query
+}
