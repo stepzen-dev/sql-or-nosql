@@ -1,4 +1,4 @@
-# SQL and NoSQL Databases with GraphQL
+# Querying SQL and NoSQL Databases with GraphQL
 
 This example demonstrates how to use a GraphQL API to query three different databases with StepZen's custom directives.
 
